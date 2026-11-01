@@ -1,0 +1,1 @@
+# Aplica-o-do-C-lculo-Diferencial-aos-Gr-ficos-de-Fun-es-Polinomiais
